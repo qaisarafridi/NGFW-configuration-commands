@@ -10,8 +10,7 @@ for port showing
 
 4.edit port1
 
-
-5. set mode static
+5.set mode static
 
 6.set ip 192.168.108.10 255.255.255.0
 
@@ -19,7 +18,7 @@ for port showing
 
 7.set alloweaccess ping https http telnet ssh
 
-8. End
+8.End
 
 For testing do ping 
 

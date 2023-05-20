@@ -24,13 +24,18 @@ according to your net work
 For testing do ping 
 
 .........................................
-#Convert NAT mode into Transpart mode
+#Convert NAT mode into Transpart mode 
 
 1.open cli terminal
+
 2.config system interface
+
 3.set opmode transparent
+
 4.set manage ip 192.168.3.44/24
+
 5.set gatway 192.168.12.3
+
 end
 .......................................
 
